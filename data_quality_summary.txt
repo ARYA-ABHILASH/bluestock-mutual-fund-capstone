@@ -1,0 +1,13 @@
+Data Quality Summary
+
+1. Successfully loaded all 10 datasets.
+2. Verified dataset structure using shape, dtypes, and head().
+3. Fetched live NAV data from mfapi.in and saved as CSV.
+4. Fetched NAV data for 5 additional mutual fund schemes.
+5. Explored fund houses, categories, sub-categories, and risk categories.
+6. AMFI code validation completed successfully.
+7. Total Fund Master Codes: 40.
+8. Total NAV History Codes: 40.
+9. Missing Codes: 0.
+10. All AMFI codes are present in NAV history.
+11. No major data quality issues identified during ingestion.
